@@ -1,0 +1,9 @@
+capítulos/capitulo3.txt
+# Ignorar todos los archivos que comiencen con "_"
+_* 
+
+# Excluir _ayuda.txt de la ignorancia
+!_ayuda.txt
+
+# Asegurarse de que capitulo3.txt no se ignore
+!capítulos/capitulo3.txt
